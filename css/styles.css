@@ -1,0 +1,68 @@
+#title {
+  background-color: #ff4c68;
+}
+
+#features {
+  background-color: white;
+}
+
+.icon {
+  color: #ef8172 ;
+  font-size: 60px;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+.center{
+  text-align: center;
+}
+
+.black{
+  color: black;
+}
+
+
+.line-height1.5 {
+  line-height: 1.5;
+}
+
+.Quicksand {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.Quicksand-Bold{
+  font-family: 'Quicksand-Bold', sans-serif;
+}
+
+.Ubuntu {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.Montserrat {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.Sacramento {
+  font-family: 'Sacramento', cursive;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu';
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Quicksand';
+}
+
+.download-btn {
+  margin: 5% 3% 5% 0%;
+}
+
+.rotated {
+  width: 60%;
+  transform: rotate(25deg);
+}
